@@ -1,0 +1,21 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Run PICO-8",
+      "type": "shell",
+      "command": "/Applications/PICO-8.app/Contents/MacOS/pico8", 
+      "args": [
+        "-root_path",
+        "${workspaceFolder}",
+        "-run",
+        "${workspaceFolder}/lander.p8"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": []
+    }
+  ]
+}

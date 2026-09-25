@@ -15,4 +15,4 @@ A spaceship trynna land without exploding >.<
 
 <img width="384" height="384" alt="lander_1" src="https://github.com/user-attachments/assets/ff7e967a-0fdd-4544-afb7-40db63ce657d" />
 <img width="384" height="384" alt="lander_0" src="https://github.com/user-attachments/assets/a1317ea6-2603-424b-aa3c-2cb8e85bdca6" />
-<img width="384" height="384" alt="lander_0" src="https://github.com/user-attachments/assets/b6167c28-a703-42e7-84d7-21e63b681534" />
+<img width="160" height="205" alt="lander p8" src="https://github.com/user-attachments/assets/8a617b6a-89ba-4238-9806-23424d61a7b7" />

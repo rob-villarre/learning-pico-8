@@ -31,7 +31,6 @@ function _draw()
     print("press ❎ to play again!", 18, 72, 6)
   else
     print("score:" .. player.score, 2, 2, 7)
-    print("next speed up:" .. player.next_speed_up, 4, 4, 7)
   end
 end
 
